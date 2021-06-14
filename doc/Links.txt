@@ -1,0 +1,4 @@
+http://pdet.mte.gov.br/component/content/article?id=1784  - Página com os dados de empregabilidade
+
+https://www.codingame.com/playgrounds/52723/programacao-python-parte-3---prof--marco-vaz/pacote-matplotlib-graficos
+

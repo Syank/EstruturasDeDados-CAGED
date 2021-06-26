@@ -9,7 +9,7 @@
 	- Emprego 
 	- Desemprego 
 
-Feito ---- 3 - Quero saber a quantidade de admissões/demissões por gênero no período da pandemia.
+3 - Quero saber a quantidade de admissões/demissões por gênero no período da pandemia.
 
 4 - Quero saber a quantidade de demissões por tipo, tipo movimentação / demissão.
 	- Diferença salarial entre homens e mulheres admitidos;
